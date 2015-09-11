@@ -26,10 +26,10 @@ This way, you will know roughly how many todo items you may finish by the end of
 
 Don't hesitate to put everything here, like: having lunch, taking a nap, etc.
 
-[!Plan](https://lh3.googleusercontent.com/vSMc9ZOdMOodCHthZyjZi_M4KcnKmTaKrAT_ZXPjAWGvrQifCYYUJYe9FUCnorUgch4=h900-rw)
+![Plan](https://lh3.googleusercontent.com/vSMc9ZOdMOodCHthZyjZi_M4KcnKmTaKrAT_ZXPjAWGvrQifCYYUJYe9FUCnorUgch4=h900-rw)
 
 Start on the item you want to work on for now, focus only on it, and the timer will show you how many time you have spent on this item, and how many time is left for this item as you estimated.
-[Timer](https://lh3.googleusercontent.com/syFfCQqV4e2FVvq2Zm7QacyZkpkxt7BAm2hN7nH9hDXvU9POpC8-WaVL8P-e_tSraKQ=h900-rw)
+![Timer](https://lh3.googleusercontent.com/syFfCQqV4e2FVvq2Zm7QacyZkpkxt7BAm2hN7nH9hDXvU9POpC8-WaVL8P-e_tSraKQ=h900-rw)
 
 Once you finish the item, swip right to mark it as "Finished"
 If you changed your mind, you can easily delete an item by swiping left.
