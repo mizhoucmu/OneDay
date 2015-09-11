@@ -19,7 +19,7 @@ An app to plan one day's task, multiple timer
 
 ###What does it do:
 
-List the items you have to do for today, and give an loose estimation on the time you might spend on them;
+List the items you have to do for today, and give an rough estimation on the time you might spend on them;
 It will tell you how many time is left for today, and this time will be consumed after you add new items to the list;
 
 This way, you will know roughly how many todo items you may finish by the end of today.
