@@ -31,7 +31,7 @@ Don't hesitate to put everything here, like: having lunch, taking a nap, etc.
 Start on the item you want to work on for now, focus only on it, and the timer will show you how many time you have spent on this item, and how many time is left for this item as you estimated.
 ![Timer](https://lh3.googleusercontent.com/syFfCQqV4e2FVvq2Zm7QacyZkpkxt7BAm2hN7nH9hDXvU9POpC8-WaVL8P-e_tSraKQ=h900-rw)
 
-Once you finish the item, swip right to mark it as "Finished"
+Once you finish the item, swipe right to mark it as "Finished"
 If you changed your mind, you can easily delete an item by swiping left.
 
 If you click on the menu: you can see the actual time you spent on every item that you have finished.
